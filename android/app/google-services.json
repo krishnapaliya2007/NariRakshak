@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "888620297231",
+    "project_id": "narirakshak-b9cc6",
+    "storage_bucket": "narirakshak-b9cc6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888620297231:android:cdb7d295a0674ca8fe477a",
+        "android_client_info": {
+          "package_name": "com.example.narirakshak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZKly_-aEEzmB6J54GIhU715IX60mdQo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
